@@ -1,0 +1,7 @@
+# Questi file NON vanno su GitHub (restano solo sul tuo computer):
+# il README contiene note interne, gli altri non servono al sito.
+README.md
+identita-visiva/
+PDF-anteprima/
+_strumenti/
+.DS_Store
